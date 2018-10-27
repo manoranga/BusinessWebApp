@@ -1,0 +1,16 @@
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+.image {
+  position: absolute;
+  bottom: -10px;
+  /* half of image height */
+  right: 10px;
+  /* right space */
+}
