@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { JambotrnComponent } from './jambotrn/jambotrn.component';
 import { FirstComponent } from './first/first.component';
+import { NavBarNewComponent } from './nav-bar-new/nav-bar-new.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
     JambotrnComponent,
-    FirstComponent
+    FirstComponent,
+    NavBarNewComponent
   ],
   imports: [
     BrowserModule,
